@@ -1,6 +1,6 @@
 # Oi, eu sou o davidavi 
 
-Encontrei no Desenvolvimento Web um universo que une o melhor da técnica e da arte na computação.
+Encontrei no Desenvolvimento Web um universo que desenvolvo minha habilidade de **solucionador de problemas**. De quebra, uno o melhor da técnica e da arte na para fazer um código eficiente.
 
 ## Objetivo  🎯
 Migrar para o "mundo real" da programação, trabalhando CLT ou como Freelancer.
